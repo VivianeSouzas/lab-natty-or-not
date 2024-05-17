@@ -5,6 +5,7 @@ Este vídeo apresenta uma rápida informação sobre endometriose, utilizando um
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização e revisão;
+
 IA Generativa Vidnoz AI para sintetização de voz e geração de avatar virtual.
 
 ## 🧐 Processo de Criação
