@@ -15,7 +15,7 @@ Usei o "ChatGPT" para estudar, escrever e revisar o roteiro do vídeo. O "Vidnoz
 O vídeo é informativo sobre a doença endometriose,  a figura da Monalisa tem o intuito de chamar a atenção!
 
 ## 💭 Reflexão (Opcional)
-Este projeto proporcionou uma oportunidade única de explorar a narrativa visual, utilizando IA generativa para criar explicações 
+Este projeto proporcionou uma oportunidade única de explorar a narrativa visual, utilizando IA generativa para criar explicações profundamente envolventes e impactantes sobre uma doença que aflige a população feminina.
 
 ## Links 
 
