@@ -1,4 +1,4 @@
-## IA e Saúde
+## IA e Endometriose
 
 ## 📒 Descrição 
 Este vídeo apresenta uma rápida informação sobre endometriose, utilizando uma figura histórica para chamar a atenção.
