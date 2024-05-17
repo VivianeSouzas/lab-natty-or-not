@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+**IAs e Saúde**
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo apresenta uma rápida informação sobre endometriose, utilizando uma figura histórica para chamar a atenção.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa Vidnoz AI para sintetização de voz e geração de avatar virtual.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para estudar, escrever e revisar o roteiro do vídeo. O "Vidnoz AI" foi essencial para criar um avatar virtual, de característica histórica conhecida, e voz sintetizada, para chamar a atenção ao assunto abordado. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é informativo sobre a doença endometriose,  a figura da Monalisa tem o intuito de chamar a atenção!
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Este projeto proporcionou uma oportunidade única de explorar a narrativa visual, utilizando IA generativa para criar explicações profundamente envolventes e impactantes sobre uma doença que aflige a população feminina.
 ```
 
 ### Exemplos e Insigths
